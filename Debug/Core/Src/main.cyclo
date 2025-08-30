@@ -1,0 +1,12 @@
+../Core/Src/main.c:169:10:crc32b	3
+../Core/Src/main.c:184:6:uart_printf	21
+../Core/Src/main.c:285:11:set_magic_key	1
+../Core/Src/main.c:302:10:compareFlashToFile	9
+../Core/Src/main.c:351:5:CopyFileToFlashMemory	10
+../Core/Src/main.c:444:5:main	12
+../Core/Src/main.c:679:6:SystemClock_Config	3
+../Core/Src/main.c:727:13:MX_RTC_Init	2
+../Core/Src/main.c:762:13:MX_SPI3_Init	2
+../Core/Src/main.c:800:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:833:13:MX_GPIO_Init	1
+../Core/Src/main.c:865:6:Error_Handler	1

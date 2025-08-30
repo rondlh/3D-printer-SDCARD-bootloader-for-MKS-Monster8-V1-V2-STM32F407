@@ -1,0 +1,14 @@
+../FATFS/Target/mmcbb.c:59:12:spiReadWrite	6
+../FATFS/Target/mmcbb.c:92:13:xmit_mmc	1
+../FATFS/Target/mmcbb.c:102:13:rcvr_mmc	1
+../FATFS/Target/mmcbb.c:112:12:wait_ready	2
+../FATFS/Target/mmcbb.c:130:13:deselect	1
+../FATFS/Target/mmcbb.c:140:12:select	2
+../FATFS/Target/mmcbb.c:158:12:rcvr_datablock	3
+../FATFS/Target/mmcbb.c:184:5:xmit_datablock	4
+../FATFS/Target/mmcbb.c:211:6:send_cmd	9
+../FATFS/Target/mmcbb.c:270:9:USER_SPI_status	4
+../FATFS/Target/mmcbb.c:297:9:USER_SPI_initialize	9
+../FATFS/Target/mmcbb.c:378:9:USER_SPI_read	10
+../FATFS/Target/mmcbb.c:420:9:USER_SPI_write	12
+../FATFS/Target/mmcbb.c:466:9:USER_SPI_ioctl	10
